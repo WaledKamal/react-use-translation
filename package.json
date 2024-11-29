@@ -1,0 +1,39 @@
+{
+  "name": "react-use-translation",
+  "version": "1.0.0",
+  "description": "A simple React hook for handling translations and language switching with memoization.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waledkamal/react-use-translation.git"
+  },
+  "keywords": [
+    "react",
+    "translation",
+    "i18n",
+    "localization",
+    "hook",
+    "language-switching"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "prepare": "npm run build"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "@types/react": "^18.3.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "react": "^18.0.0"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0"
+  }
+}
