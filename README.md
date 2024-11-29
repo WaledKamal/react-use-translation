@@ -11,6 +11,6 @@ Simply pass the desired language namespace and key to the hook, and it will retu
 To install **react-use-translation** in your project, run the following command:
 
 ```bash
-npm install react-use-translation
+npm install @kamavinga/react-use-translation
 # or
-yarn add react-use-translation
+yarn add @kamavinga/react-use-translation
