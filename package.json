@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@kamavinga/react-use-translation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple React hook for handling translations and language switching with memoization.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
